@@ -10,9 +10,7 @@ git push - 업로드
 other - 숨겨진 파일들 찾기
 ignored =  무시하는 파일을 찾기
 exclude-standard =  출력 옵션
-💡 find (파일이나 디렉토리 찾기)
-- find . -type file -name "*txt" : 현재 디렉토리 하위에 있는 파일 중 .txt`가 포함되어있는 파일 찾기
-  - 지정한 파일 유형을 찾을 때 사용( -type)
+find - 파일이나 디렉토리 찾기
 
 *shell01*
 환경변수 설정
