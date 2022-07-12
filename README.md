@@ -1,7 +1,7 @@
 # 42seoul
 (Shell script)
 
-*shell 00*
+/*shell 00/*
 
 mkfile - 파일 생성
 
