@@ -1,5 +1,4 @@
 # 42seoul
-42서울 과제
 ### (Shell script)
 
 mkfile - 파일 생성
