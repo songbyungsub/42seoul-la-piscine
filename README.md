@@ -1,7 +1,5 @@
 # 42seoul
-(Shell script)
-
-**shell 00**
+### (Shell script)
 
 mkfile - 파일 생성
 
@@ -22,8 +20,6 @@ ignored =  무시하는 파일을 찾기
 exclude-standard =  출력 옵션
 
 find - 파일이나 디렉토리 찾기
-
-*shell01*
 
 환경변수 설정
 
