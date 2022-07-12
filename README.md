@@ -1,13 +1,31 @@
 # 42seoul
 (Shell script)
+
+
 *shell 00*
+
+
 mkfile - 파일 생성
+
+
 chmod - 파일권한 명령법
+
+
 ls - 현재 디렉토리 내의 모든 파일 나열
+
+
 git add - add 저장
+
+
 git commit - 커밋
+
+
 git push - 업로드
+
+
 other - 숨겨진 파일들 찾기
+
+
 ignored =  무시하는 파일을 찾기
 exclude-standard =  출력 옵션
 find - 파일이나 디렉토리 찾기
